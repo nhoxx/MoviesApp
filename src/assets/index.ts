@@ -1,0 +1,1 @@
+export const IC_BACK = require('../assets/images/chevron_left.png');
